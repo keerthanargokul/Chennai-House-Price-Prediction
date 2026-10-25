@@ -1,0 +1,8 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" ><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Chennai-City HPI Data Current-Q (Base Year 2024)</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--><meta http-equiv="content-type" content="text/plain; charset=UTF-8"/></head><body><table> <table class="table table-bordered table-responsive-sm table-striped"> <thead class="table-secondary" style="position: sticky; top: -1px;">
+        <tr>
+        <th rowspan="2" class="text-center">Quarter</th> <th colspan="2" class="text-center">HPI@Assessment Price</th> <th colspan="2" class="text-center">HPI@Market Prices for UC Properties</th>
+        </tr>
+        <tr>
+        <th class="text-center">Housing Price Index</th> <th class="text-center">Carpet Area Prices (Rs.Per Sq.Ft.)</th> <th class="text-center">Housing Price Index</th> <th class="text-center">Carpet Area Prices (Rs.Per Sq.Ft.)</th>
+        </tr>
+        </thead><tbody> <tr> <td>Jun 2025</td> <td>103.98</td> <td>9798</td> <td>N/A</td> <td>N/A</td> </tr> <tr> <td>Sep 2025</td> <td>103.72</td> <td>9774</td> <td>N/A</td> <td>N/A</td> </tr> <tr> <td>Dec 2025</td> <td>115.15</td> <td>10851</td> <td>N/A</td> <td>N/A</td> </tr> <tr> <td>Mar 2026</td> <td>111</td> <td>10459</td> <td>N/A</td> <td>N/A</td> </tr> <tr> <td>Jun 2026</td> <td>120.3</td> <td>11336</td> <td>N/A</td> <td>N/A</td> </tr></tbody></table></table></body></html>
