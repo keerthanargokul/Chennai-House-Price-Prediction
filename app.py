@@ -17,7 +17,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-DATA_PATH = Path("data") / "Chennai houseing sale.csv"
+DATA_PATH = Path(__file__).parent / "Chennai houseing sale.csv"
 MODEL_PATH = Path("model_tuned_candidate.pkl")
 OUTPUT_DIR = Path("outputs")
 MARKET_DATA_PATH = Path("market_data") / "Chennai-City HPI Data Current-Q (Base Year 2024).xls"
